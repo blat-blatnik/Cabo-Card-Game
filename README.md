@@ -6,7 +6,7 @@ GUI program for playing a variant of the [Cabo](https://en.wikipedia.org/wiki/Ca
   <img width="531" height="504" src="screenshots/screenshot.png">
 </p>
 
-This program was made for an assignment in Object Oriented Programming, so it was a collaborative project with [my lab partner](https://github.com/janaheit). We also had help from Olga Wazny, who designed all of the card textures.
+This program was made for a 2-week assignment in Object Oriented Programming, so it was a collaborative project with [my lab partner](https://github.com/janaheit). We also had help from Olga Wazny, who designed all of the card textures.
 
 ## Requirements
 
@@ -18,7 +18,7 @@ This program was made for an assignment in Object Oriented Programming, so it wa
 
 ## Licence
 
-This program and all of its source code are in the public domain, you can use them for anything you want. The card textures have a proprietary licence - you cannot use those in your own projects without the author's permission.
+This program and all of its source code are in the public domain, you can use them for anything you want. The card textures have a proprietary licence - you cannot use those in your own projects without permission from the author.
 
 ## Game Rules
 
@@ -51,12 +51,21 @@ At the start of any player's turn, before they have drawn any cards, they may in
 #### Card special effects
 -------------------------
 
+<p align="center">
+  <img src="screenshots/special-cards.png">
+</p>
+
 Special abilities are printed in red writting on the cards that have them. The abilities are as follows:
 
-**PEEK** Peek at 1 card from your hand in secret.
+|                  |             |
+|:----------------:|:----------- |
+| **Peek**         | Peek at 1 card from your hand in secret. |
+| **Spy**          | Peek at 1 card from any opponent's hand in secret. |
+| **Swap**         | Swap one of your cards with one of your opponent's cards. The player can also choose to skip this ability. |
+| **Spy and Swap** | Peek at 1 card from your hand, and 1 card from any opponent's hand, both in secret. Then, swap the peeked cards. The player may also choose to skip the swap part of this ability. |
 
-**SPY** Peek at 1 card from any opponent's hand in secret.
+## Limitations
 
-**SWAP** Swap one of your cards with one of your opponent's cards. The player can also choose to skip this ability.
-
-**SPY \& SWAP** Peek at 1 card from your hand, and 1 card from any opponent's hand, both in secret. Then, swap the peeked cards. The player may also choose to skip the swap part of this ability.
+- AI players are not in the game so it can only be played in multi-player mode, with players taking turns sitting at the computer. The reason we decided against making some simple AI is that there would be no way to properly communicate to the player what the AI did during it's turn since there are no animations in the game right now. All turns would be instant and it would be extremely disorganizing playing against an AI that could insert cards into parts of your deck without you even knowing. We would need to add a card animation system first before adding in an AI.
+- Even though any player is technically supposed to be able to drop any other players card, even when it isn't their turn - we couldn't figure out any way that that could be implemented and this seems to be a limitation with using only 1 computer for the input of 2+ players. If during player 1's turn, player 2 decides to take the computer and drop one of player 1's cards, there is no way we can distinguish this from the situation where player 1 drops one of his own cards.
+- Even though Cabo is originally designed for 2-4 players, support 2 player, 1v1 mode due to time constraints.
