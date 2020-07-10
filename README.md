@@ -14,7 +14,7 @@ This program was made for a 2-week assignment in Object Oriented Programming, so
 
 ## How to run
 
-[Download]() `cabo.jar`, then run `$ java -jar cabo.jar`.
+[Download](https://github.com/blat-blatnik/Cabo-Card-Game/raw/master/bin/cabo.jar) `cabo.jar`, then run `$ java -jar cabo.jar`.
 
 ## Licence
 
