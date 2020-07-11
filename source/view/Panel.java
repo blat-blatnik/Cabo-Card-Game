@@ -15,7 +15,6 @@ import java.awt.*;
 import java.awt.geom.*;
 
 /**
- * @author Boris
  * @version 5.0
  *
  * This panel is used to display the state of the CaboGame to the user. The panel observes the CaboBoardLayout for

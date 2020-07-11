@@ -5,9 +5,7 @@ import model.Player;
 import model.card.Card;
 
 /**
- * @author Jana
- * @author Boris
- * @version 3.0
+  * @version 3.0
  *
  * This class is responsible for the Initial Peek of the game. In the beginning of the game the player can peek/look
  * at two of this own cards that they than need to remember throughout the game.

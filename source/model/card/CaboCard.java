@@ -5,7 +5,6 @@ import view.CardTextures;
 import java.io.Serializable;
 
 /**
- * @author Boris
  * @version 2.0
  *
  * Represents the playing cards used for Cabo. Cabo can technically be player with a standard deck of 54 cards,

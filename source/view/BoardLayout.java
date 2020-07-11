@@ -12,7 +12,6 @@ import java.util.List;
 import java.util.Observable;
 
 /**
- * @author Boris
  * @version 2.0
  *
  * Stores the layout of the board for a CaboGame. This layout includes the player, deck, draw, and player areas - their

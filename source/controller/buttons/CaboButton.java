@@ -8,8 +8,6 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This CaboButton control can be used by a player to call Cabo during their turn in the DrawOrCaboPhase.

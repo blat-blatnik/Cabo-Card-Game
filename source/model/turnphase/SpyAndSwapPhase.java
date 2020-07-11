@@ -5,8 +5,6 @@ import model.Player;
 import model.card.Card;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This turn phase lets a player look at two cards, one from their own hand - one from the opponents hand, and lets

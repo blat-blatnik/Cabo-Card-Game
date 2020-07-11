@@ -6,7 +6,6 @@ import java.io.Serializable;
 import java.util.*;
 
 /**
- * @author Boris
  * @version 3.0
  *
  * Represents a deck of cards used for a game of Cabo. All cards in the deck are normally set face down. The Deck

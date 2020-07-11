@@ -5,7 +5,6 @@ import view.SoundPlayer;
 import java.io.Serializable;
 
 /**
- * @author Boris
  * @version 2.0
  *
  * Represents a Card used in a game of Cabo. Encapsulates both the card value, as well as whether the Card is currently

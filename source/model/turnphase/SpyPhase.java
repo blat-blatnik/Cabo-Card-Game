@@ -5,8 +5,6 @@ import model.Player;
 import model.card.Card;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This class is responsible for letting a player spy on one of their opponent's cards.

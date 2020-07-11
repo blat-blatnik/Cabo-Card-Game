@@ -7,8 +7,6 @@ import view.Panel;
 import javax.swing.*;
 
 /**
- * @author Boris
- * @author Jana
  * @version 2.1
  *
  * This CaboMenu contains and organizes all of the button controls needed in a game of Cabo. This includes an

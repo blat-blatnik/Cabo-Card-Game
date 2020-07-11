@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Jana and Boris
  * @version 1.1
  *
  * This class encompasses one player in the game. It stores the player's cards and some more information about the

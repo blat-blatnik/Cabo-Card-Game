@@ -5,8 +5,6 @@ import model.Player;
 import model.card.Card;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This class is responsible for letting a player swap one of their cards with one of the opponent's cards. This

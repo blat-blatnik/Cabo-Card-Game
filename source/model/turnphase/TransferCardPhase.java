@@ -5,8 +5,6 @@ import model.Player;
 import model.card.Card;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This class lets the player transfer one of their cards to the opponent. This phase is invoked only when the player

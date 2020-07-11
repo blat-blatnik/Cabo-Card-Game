@@ -9,7 +9,6 @@ import javax.swing.AbstractButton;
 import javax.swing.JButton;
 
 /**
- * @author Boris
  * @version 1.5
  *
  * This ResetButton control starts a new game of Cabo by resetting the CaboGame when the player clicks on it.

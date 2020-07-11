@@ -10,8 +10,6 @@ import view.SoundPlayer;
 import java.awt.*;
 
 /**
- * @author Boris
- * @author Jana
  * @version 1.1
  *
  * The CaboBoard is a helper controller used by the CardDragger to determine where on the Cabo game board particular

@@ -7,8 +7,6 @@ import model.card.Card;
 import java.util.List;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This turn phase lets the player peek at one of their own cards, when a special card is put on the discard pile.

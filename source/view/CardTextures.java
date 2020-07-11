@@ -15,7 +15,6 @@ import java.util.Map;
 import javax.imageio.ImageIO;
 
 /**
- * @author Boris
  * @version 2.0
  *
  * Contains static methods to load and access card textures for Cabo - which consist of card front and back textures.

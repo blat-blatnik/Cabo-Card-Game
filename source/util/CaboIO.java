@@ -8,7 +8,6 @@ import view.SoundPlayer;
 import java.io.*;
 
 /**
- * @author Boris
  * @version 2.0
  *
  * CaboIO is used for serialization/deserialization of the CaboGame state. When the CaboPanel closes, the current state

@@ -12,8 +12,6 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 /**
- * @author Boris
- * @author Jana
  * @version 1.5
  *
  * The main JFrame class used for the Cabo card game application.

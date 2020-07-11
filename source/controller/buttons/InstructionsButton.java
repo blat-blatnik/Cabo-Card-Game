@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 
 /**
- * @author Boris
  * @version 2.0
  *
  * This InstructionButton can be pressed to give pop-up instructions for how to play Cabo.

@@ -7,8 +7,6 @@ import model.card.DiscardPile;
 import model.card.Card;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This represents the turn phase DrawOrCabo. In this turn phase the user can draw a new card either from the

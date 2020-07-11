@@ -5,7 +5,6 @@ import view.SoundPlayer;
 import javax.swing.*;
 
 /**
- * @author Boris
  * @version 2.0
  *
  * This SoundButton controls whether the sound output from the SoundPlayer is turned on or off when the player clicks it.

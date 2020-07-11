@@ -5,8 +5,6 @@ import model.Player;
 import model.card.Card;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This class represents the turn phase DiscardOrSwap. That means the player can either discard a drawn card

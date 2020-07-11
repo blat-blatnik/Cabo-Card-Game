@@ -10,8 +10,6 @@ import java.io.Serializable;
 import java.util.Observable;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This is an abstract superclass for all TurnPhases in the Cabo game. It is observed by the CaboGame itself and when

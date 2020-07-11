@@ -5,7 +5,6 @@ import view.CardTextures;
 import java.io.Serializable;
 
 /**
- * @author Boris
  * @version 1.0
  *
  * Represents a special discard ability of a CaboCard that is activated when the card is discarded.

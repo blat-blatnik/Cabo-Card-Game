@@ -10,8 +10,6 @@ import java.io.Serializable;
 import java.util.*;
 
 /**
- * @author Boris
- * @author Jana
  * @version 999.0
  *
  * Represents the state of a 1v1 game of Cabo. Including the players, deck, discard pile, and turn phases.

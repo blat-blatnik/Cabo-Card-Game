@@ -6,8 +6,6 @@ import model.card.Deck;
 import model.card.Card;
 
 /**
- * @author Jana
- * @author Boris
  * @version 3.0
  *
  * This class is responsible for picking up a new card and placing it in the player's hand.

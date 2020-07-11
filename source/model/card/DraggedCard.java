@@ -3,7 +3,6 @@ package model.card;
 import java.util.Observable;
 
 /**
- * @author Boris
  * @version 1.5
  *
  * Represents a Card being dragged with the mouse. The DraggedCard is tethered to some original location where it came

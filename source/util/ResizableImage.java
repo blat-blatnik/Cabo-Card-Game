@@ -5,7 +5,6 @@ import view.CardTextures;
 import java.awt.*;
 
 /**
- * @author Boris
  * @version 1.0
  *
  * Stores an image that is meant to be scaled to some particular dimensions with high-quality scaling. If you just

@@ -6,7 +6,6 @@ import java.util.Stack;
 import java.util.Iterator;
 
 /**
- * @author Boris
  * @version 1.5
  *
  * Represents the discard pile of a CaboGame, in which all added cards are placed face-up.

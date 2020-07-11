@@ -9,7 +9,6 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * @author Jana
  * @version 1.0
  *
  * This AbortSwapButton control can be used if the player decides they don't want to swap a card during a SwapPhase or a

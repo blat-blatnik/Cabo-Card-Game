@@ -7,7 +7,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Boris
  * @version 1.2
  *
  * The SoundPlayer plays sounds from the "sounds" resources folder. It also caches the sound clips in a map for faster
